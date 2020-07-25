@@ -7,19 +7,19 @@ DATE: 25/07/2020
 const activities = [
     {
         id: "Day 1",
-        events: ['Cooked', 'drove', 'cake', 'dance', 'washed clothes']
+        events: ['bath', 'dance', 'run', 'exercise', 'washed']
     },
     {
         id: "Day 2",
-        events: ['sleep', 'burger', 'cake', 'ice cream', 'jog']
+        events: ['sew', 'rice', 'pizza', 'coke', 'watch movie']
     },
     {
         id: "Day 3",
-        events: ['gym', 'drove', 'sky-diving', 'dance', 'school', 'pizza']
+        events: ['gym', 'drove', 'dance', 'school', 'pizza']
     },
     {
         id: "Day 4",
-        events: ['washed clothes', 'drove', 'cake', 'sky-diving']
+        events: ['cake', 'sky-diving']
     },
     {
         id: "Day 5",
@@ -31,11 +31,11 @@ const activities = [
     },
     {
         id: "Day 7",
-        events: ['washed clothes', 'drove', 'cake', 'Cooked', 'dance']
+        events: ['drove', 'cake']
     },
     {
         id: "Day 8",
-        events: ['gym', 'drove', 'sky-diving', 'dance', 'school', 'pizza']
+        events: ['gym', 'drove', 'school', 'pizza']
     },
     {
         id: "Day 9",
@@ -43,23 +43,23 @@ const activities = [
     },
     {
         id: "Day 10",
-        events: ['cook', 'drove', 'cake', 'dance', 'washed clothes']
+        events: ['cake', 'dance', 'washed clothes']
     },
     {
         id: "Day 11",
-        events: ['cook', 'drove', 'cake', 'pizza', 'dance', 'pear']
+        events: ['eat', 'run', 'cake', 'pizza', 'dance', 'pear']
     },
     {
         id: "Day 12",
-        events: ['travel', 'beer', 'cake', 'dance', 'meat']
+        events: ['travel', 'pizza', 'cake', 'dance', 'meat']
     },
     {
         id: "Day 13",
-        events: ['burger', 'pizza', 'drove', 'cake', 'dance', 'cheese']
+        events: ['drove', 'cake', 'dance', 'cheese']
     },
     {
         id: "Day 14",
-        events: ['gym', 'drove', 'sky-diving', 'dance', 'school', 'pizza']
+        events: ['dance', 'school', 'pizza']
     }
 ];
 
